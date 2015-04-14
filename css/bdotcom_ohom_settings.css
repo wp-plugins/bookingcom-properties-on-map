@@ -1,0 +1,56 @@
+/* Admin settings style */
+
+.bdotcom_ohom_label {
+	width: 20%;
+	display: inline-block;
+	float: left;
+	margin-right: 10px;
+}
+
+
+#bdotcom_ohom_mb_info_box, #bdotcom_ohom_mb_info_box_target {
+	padding: 1%;
+	background-color:#FFFFE0;
+	border:1px solid #E6DB55;
+	margin:10px 0 10px;
+	float: left;
+	width: 98%;
+}
+
+.bdotcom_ohom_mb_logo {
+	width: 150px;
+	vertical-align: middle;
+	margin-right: 10px;
+}
+
+.bdotcom_ohom_mb_logo_colour {
+	margin-right: 10px;
+}
+
+#bdotcom_ohom_error_content {
+	border: 1px solid #DD3D36;
+	padding: 10px;
+	background-color: #F7D1CF;
+	color: #444;
+	font-weight: bold;
+}
+
+.bdotcom_ohom_mb_field_descr {
+	display: block;
+	width: 45%;
+	float: left;
+}
+
+input.bdotcom_ohom_mb_field,select.bdotcom_ohom_mb_field, textarea.bdotcom_ohom_mb_field {
+	float: left;
+	margin-right: 10px;
+}
+
+#bdotcom_ohom_meta p {
+	padding: 0.5em 0;
+}
+
+
+#bdotcom_ohom_meta a:focus, #bdotcom_ohom_meta a:active, #bdotcom_ohom_meta a:hover {
+	box-shadow: none;
+}
