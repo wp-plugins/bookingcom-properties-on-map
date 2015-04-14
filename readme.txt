@@ -65,7 +65,7 @@ Check the Features for more details.
 
 = Can I change default colours? =
 
-Yes. Each map ha sits own settins page where you can change default colours.
+Yes. Each map has its own settings page where you can change default colours.
 
 = What's the Affiliate Programme and how can I join? =
 
@@ -77,9 +77,9 @@ Please check this [page](http://www.booking.com/content/affiliates.html)  to rea
 Yes, it's possible. You don’t need to be an Affiliate Partner to implement the plugin, but you could start earning commissions today becoming our Partner.
 [Sign-up now](https://secure.booking.com/partnerreg.html).
 
-= Can I place the widget on multiple position ? =
+= Can I place the widget on multiple positions ? =
 
-Yes. Using widgets and shortcodes you can displayes your maps everywhere !
+Yes. Using widgets and shortcodes you can display your maps everywhere !
 
 = Can I use attributes for shortcodes ? =
 
@@ -88,7 +88,7 @@ Example of shortcode: [bdotcom_ohom mapid="75" width="250px"] where 75 is your p
 
 = Which WP version is the plugin compatible with ? =
 
-The plugin will work from WP ver 3.0 onwards.
+The plugin will work from WP version 3.0 onwards.
 
 = Have you other products for wordpress to sell properties online ? =
 
